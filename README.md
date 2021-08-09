@@ -1,0 +1,1 @@
+This is e-Svarog's first git project!
